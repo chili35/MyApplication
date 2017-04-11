@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="hello_text">欢迎进入校园导航系统</string>
+    <string name="hello_text">欢迎你进入校园导航系统</string>
     <string name="enter_button">ENTER!</string>
 </resources>
